@@ -1,15 +1,9 @@
 /* =================================================================== 
- *  Imminent Vendor/Third Party CSS
- *  Template Ver. 1.0.0 
- *  09-19-2019
- *  ------------------------------------------------------------------
- *
  *  TOC:
  *  # slick slider
  *  # prettyprint GitHub Theme
  *
  * =================================================================== */
-
 
 /* ===================================================================
  * # slick slider
@@ -122,15 +116,13 @@
   display: none;
 }
 
-
-
 /* ===================================================================
  * # prettyprint GitHub Theme
  *
  * ------------------------------------------------------------------- */
 .prettyprint {
   background: #efefef;
-  font-family: Menlo, 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+  font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace;
   font-size: 13px;
   line-height: 1.538;
   border-radius: 4px;
@@ -197,7 +189,6 @@
   .fun {
     color: #990000;
   }
-
 }
 
 @media print, projection {
@@ -242,7 +233,6 @@
   .atv {
     color: #006600;
   }
-
 }
 
 /* Specify class=linenums on a pre to get line numbering */
@@ -262,7 +252,6 @@ li.L6,
 li.L7,
 li.L8,
 li.L9 {
-
   /* */
 }
 
@@ -272,7 +261,6 @@ li.L3,
 li.L5,
 li.L7,
 li.L9 {
-
   /* */
 }
 
